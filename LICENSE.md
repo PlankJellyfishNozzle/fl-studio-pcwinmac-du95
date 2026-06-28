@@ -1,4 +1,4 @@
-# 
+# Léger Adobe Audition filtres pour Mac OS | Turbo Adobe Audition filtres pour PC Windows. Avec montage de timeline et contrôle du débit binaire — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
